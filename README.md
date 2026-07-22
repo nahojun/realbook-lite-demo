@@ -43,18 +43,29 @@ The official demo may be provided through GitHub Pages or the SODEC website. Clo
 
 ## Included Files
 
-```text
-README.md
-README.ko.md
-LICENSE-DEMO.md
-LICENSE-DEMO.ko.md
-COMMERCIAL_USE.md
-THIRD_PARTY_NOTICES.md
-index.html
-assets/
-manifest.webmanifest
-registerSW.js
-sw.js
-workbox-*.js
-icon-192.svg
-icon-512.svg
+- README.md
+- README.ko.md
+- LICENSE-DEMO.md
+- LICENSE-DEMO.ko.md
+- COMMERCIAL_USE.md
+- THIRD_PARTY_NOTICES.md
+- index.html
+- assets/
+- manifest.webmanifest
+- registerSW.js
+- sw.js
+- workbox-*.js
+- icon-192.svg
+- icon-512.svg
+
+## Privacy
+
+REALBOOK Lite opens local PDFs through the browser file picker. This static demo does not upload the selected PDF to a REALBOOK server.
+
+## Third-Party Software
+
+Third-party software remains under its own license terms. See [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md).
+
+## Contact
+
+Commercial inquiries: nahojun@sodec.co.kr
