@@ -21,7 +21,6 @@ REALBOOK Lite는 REALBOOK 리더 인터페이스의 공개 데모 및 평가용 
 - 개인 독서
 - 교육
 - 연구
-- 비상업 평가
 - 비상업적 개인 평가
 
 ## 상업 사용
@@ -34,27 +33,11 @@ REALBOOK Lite는 REALBOOK 리더 인터페이스의 공개 데모 및 평가용 
 
 ## 라이선스
 
-REALBOOK Lite는 MIT, Apache, BSD, GPL 등 오픈소스 라이선스로 배포되지 않습니다. 제3자 의존성을 제외한 REALBOOK 코드, 인터페이스, 시각 동작, 문서 및 배포 패키지의 권리는 SODEC이 보유합니다.
+REALBOOK Lite는 MIT, Apache, BSD, GPL 등 오픈소스 라이선스로 배포되지 않습니다. 제3자 의존성을 제외한 REALBOOK 소유 코드, 인터페이스, 시각 동작, 문서 및 배포 패키지의 권리는 SODEC이 보유합니다.
 
 영문 기준 라이선스는 [LICENSE-DEMO.md](./LICENSE-DEMO.md)입니다. 한국어 참고본은 [LICENSE-DEMO.ko.md](./LICENSE-DEMO.ko.md)입니다.
 
-## GitHub Pages 배포
-
-1. `realbook-lite` 또는 `realbook-lite-demo` 이름의 공개 저장소를 만듭니다.
-2. 이 폴더의 내용을 저장소 루트에 복사합니다.
-3. 커밋 후 GitHub에 푸시합니다.
-4. GitHub에서 **Settings -> Pages**로 이동합니다.
-5. **Deploy from a branch**를 선택합니다.
-6. `main` 브랜치와 `/root`를 선택합니다.
-7. 생성된 GitHub Pages URL을 엽니다.
-
-이 패키지는 상대 경로 asset을 사용하므로 다음과 같은 GitHub Pages 프로젝트 경로에서 실행될 수 있습니다.
-
-```text
-https://OWNER.github.io/realbook-lite-demo/
-```
-
-
+공식 데모는 GitHub Pages 또는 SODEC 웹사이트에서 제공될 수 있습니다. 이 저장소를 복제하거나 재배포하는 경우에도 LICENSE-DEMO.md와 COMMERCIAL_USE.md의 조건이 적용됩니다.
 
 ## 문의
 
